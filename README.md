@@ -1,2 +1,0 @@
-# TodoList-vanillaJS
-# Todolist-VanillaJS
